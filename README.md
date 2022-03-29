@@ -1,5 +1,7 @@
 # ibm_data_science_capstone
 IBM Data Science Professional Certificate - Capstone Project
+<p>Author: Danilo Gouvea Silva</p>
+<p>Github: (https://github.com/DaniloGouvea)</p>
 
 ## About this repository
 This repo contains all the notebooks and the source code for a simple Plotly Dash app that were all produced for the final project (capstone) of the IBM Data Science professional certificate.
